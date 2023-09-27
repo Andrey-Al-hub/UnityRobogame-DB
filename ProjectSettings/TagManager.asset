@@ -5,19 +5,33 @@ TagManager:
   serializedVersion: 2
   tags:
   - Platform
+  - PickableRed
+  - PickableGreen
+  - PickableBlue
+  - HoldRed
+  - HoldGreen
+  - HoldBlue
+  - ThrownRed
+  - ThrownGreen
+  - ThrownBlue
+  - EnemyRed
+  - EnemyGreen
+  - EnemyBlue
+  - SpawnLeft
+  - SpawnRight
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Pick Up
+  - Player
+  - Detect
+  - Thrown
+  - Enemy
+  - Wall
   - 
   - 
   - 
